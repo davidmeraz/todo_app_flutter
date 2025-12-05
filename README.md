@@ -1,16 +1,34 @@
-# to_do_app
+# 📝 To-Do App
 
-A new Flutter project.
+Aplicación de lista de tareas desarrollada con Flutter.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Agregar tareas
+- Marcar tareas como completadas
+- Eliminar tareas (deslizar o botón)
+- Estadísticas de tareas (total, completadas, pendientes)
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+git clone https://github.com/davidmeraz/todo_app_flutter.git
+cd todo_app_flutter
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run Tecnologías
+
+- Flutter
+- Dart
+- Material Design 3
+
+## Autor
+
+David Meraz - [@davidmeraz](https://github.com/davidmeraz)
+
+
+
+
+
+
+
+
